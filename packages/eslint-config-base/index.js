@@ -13,7 +13,7 @@ module.exports = {
     rules: {
         ...overrideAirbnb,
 
-        'simple-import-sort/sort': 'warn',
+        'simple-import-sort/imports': 'warn',
         'sort-imports': 'off',
         'import/order': 'off',
     },
