@@ -22,6 +22,8 @@ module.exports = {
 
     'no-console': 'off',
 
+    'no-continue': 'off',
+
     'no-param-reassign': ['error', {
         props: false,
     }],
