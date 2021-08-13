@@ -1,8 +1,8 @@
 {
   "name": "@djaler/eslint-config-typescript",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {
-    "@djaler/eslint-config-base": "workspace:0.0.2",
+    "@djaler/eslint-config-base": "workspace:0.0.3",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
     "eslint-config-airbnb-typescript": "^12.0.0"
   }
