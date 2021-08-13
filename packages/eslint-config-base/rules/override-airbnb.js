@@ -28,6 +28,8 @@ module.exports = {
         props: false,
     }],
 
+    'no-restricted-syntax': 'off',
+
     // deprecated in favor of func-call-spacing
     'no-spaced-func': 'off',
 
