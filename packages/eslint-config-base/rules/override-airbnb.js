@@ -48,6 +48,8 @@ module.exports = {
 
     'object-curly-spacing': ['warn', 'always'],
 
+    'prefer-destructuring': ['off'],
+
     'spaced-comment': 'off',
 
     'import/prefer-default-export': 'off',
