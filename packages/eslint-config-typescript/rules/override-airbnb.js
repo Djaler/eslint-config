@@ -7,6 +7,7 @@ module.exports = {
 
     '@typescript-eslint/lines-between-class-members': baseAirbnbOverrides['lines-between-class-members'],
 
+    'no-use-before-define': ['off'],
     '@typescript-eslint/no-use-before-define': [baseAirbnbOverrides['no-use-before-define'][0], {
         ...baseAirbnbOverrides['no-use-before-define'][1],
         enums: false,
