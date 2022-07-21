@@ -24,7 +24,7 @@ importers:
 
   packages/eslint-config-typescript:
     specifiers:
-      '@djaler/eslint-config-base': workspace:0.0.4
+      '@djaler/eslint-config-base': workspace:0.0.5
       '@typescript-eslint/eslint-plugin': ^5.30.7
       '@typescript-eslint/parser': ^5.30.7
       eslint-config-airbnb-typescript: ^17.0.0
