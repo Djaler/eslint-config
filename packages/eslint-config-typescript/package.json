@@ -3,8 +3,8 @@
   "version": "0.0.9",
   "dependencies": {
     "@djaler/eslint-config-base": "workspace:0.0.5",
-    "@typescript-eslint/eslint-plugin": "^5.30.7",
-    "@typescript-eslint/parser": "^5.30.7",
-    "eslint-config-airbnb-typescript": "^17.0.0"
+    "@typescript-eslint/eslint-plugin": "5.38.0",
+    "@typescript-eslint/parser": "5.38.0",
+    "eslint-config-airbnb-typescript": "17.0.0"
   }
 }
